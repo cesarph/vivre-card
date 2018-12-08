@@ -1,0 +1,50 @@
+[
+  {
+    "name": {
+      "kanji": "ルフィ太郎",
+      "romanji": "luffy"
+    },
+    "number": "0001",
+    "quote": "海賊王に俺はなるかいぞくおうにおれわなる",
+    "essence": "",
+    "laughPattern": "",
+    "crew": {
+      "flagURL": "",
+      "affilation": "Mugiwara Pirates",
+      "position": "Captain"
+    },
+    "bullets": {
+      "debut": "1",
+      "epithet": "",
+      "devilFruit": "",
+      "haki": "",
+      "speciesFamily": "",
+      "miscInfo": ["", ""]
+    },
+    "profile": {
+      "gender": "",
+      "ship": "",
+      "birthday": "",
+      "age": "",
+      "height": "",
+      "zodiac": "",
+      "bloodType": "",
+      "hometown": "",
+      "favoriteFood": "",
+      "bounty": "",
+      "voiceActor": ""
+    }, 
+    "gallery": [],
+    "wantedPoster": {
+      "imageURL": "",
+      "bounty": ""
+    },
+    "heightImg": "",
+    "history": [
+      {
+        "title": "",
+        "description": ""
+      }
+    ]
+  }
+]
